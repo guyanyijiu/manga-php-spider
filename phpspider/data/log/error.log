@@ -1,0 +1,5 @@
+2016-12-02 17:34:12 [Error] Mysql Connect failed[1]: Access denied for user 'root'@'localhost' (using password: YES)
+2016-12-02 17:34:12 [Error] Mysql Connect failed[2]: Access denied for user 'root'@'localhost' (using password: YES)
+2016-12-02 17:34:12 [Error] Mysql Connect failed[3]: Access denied for user 'root'@'localhost' (using password: YES)
+2016-12-02 17:34:12 [Error] Mysql Connect failed[4]: Access denied for user 'root'@'localhost' (using password: YES)
+2016-12-02 17:34:12 [Error] Mysql Connect failed[5]: Access denied for user 'root'@'localhost' (using password: YES)
